@@ -1,0 +1,8 @@
+# REPO: https://github.com/foxhui/Clash-Rules-CN
+# UPDATE TIME: 2025-03-16
+payload:
+  - DOMAIN-SUFFIX,kurogame.com
+  - DOMAIN-SUFFIX,kurogame.xyz
+  - DOMAIN-SUFFIX,aki-game.com
+  - DOMAIN-SUFFIX,aki-game2.com
+  - DST-PORT,13100-13120
