@@ -1,0 +1,15 @@
+# REPO: https://github.com/foxhui/Clash-Rules-CN
+# UPDATE TIME: 2025-03-16
+payload:
+  - DOMAIN-SUFFIX,dun.163.com
+  - DOMAIN-SUFFIX,dun.163yun.com
+  - DOMAIN-SUFFIX,music.163.com
+  - DOMAIN-SUFFIX,music.126.net
+  - DOMAIN-SUFFIX,nstool.netease.com
+  - DOMAIN-SUFFIX,music.163.com.163jiasu.com
+  - DOMAIN-SUFFIX,netease.nining376.ggff.net
+  - DOMAIN-SUFFIX,lbs.netease.im
+  - DOMAIN-SUFFIX,yunxinfw.com
+  - DOMAIN-SUFFIX,nstool.zhuanzfx.com
+  - DOMAIN-SUFFIX,nstool.laiqukankan.com
+  - DOMAIN-SUFFIX,nstool.321fenx.com
