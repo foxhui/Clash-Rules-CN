@@ -1,0 +1,12 @@
+# REPO: https://github.com/foxhui/Clash-Rules-CN
+# UPDATE TIME: 2025-03-16
+payload:
+  - DOMAIN-SUFFIX,miyoushe.com
+  - DOMAIN-SUFFIX,mihoyo.com
+  - DOMAIN-SUFFIX,yuanshen.com
+  - DOMAIN-SUFFIX,bhsr.com
+  - DOMAIN-SUFFIX,juequling.com
+  - DST-PORT,22101
+  - DST-PORT,22102
+  - DST-PORT,23301
+  - DST-PORT,20501
